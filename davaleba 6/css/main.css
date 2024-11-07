@@ -9,40 +9,40 @@
 }
 
 
-.header {
+.header1 {
     max-width: 1322px;
     max-height: 91px;
     margin-left: auto;
     margin-right: auto;
     padding: 20px 0;
+
 }
 
 nav {
-    display: flex;
+    display: inline-flex;
+    width: 100%;
     justify-content: space-between;
+
 }
 
 nav ul {
     list-style: none;
-    display: flex;
-
+    display: inline-flex;
 }
 
 a {
     text-decoration: none;
-    margin: 10px;
-
+    margin: 20px;
+    float: left;
 }
 
 ul li {
     font-size: 14px;
     font-weight: 700;
-
 }
 
 ul li a {
     color: #737373;
-
 }
 
 .Brandname {
@@ -66,9 +66,15 @@ nav div button {
     border-radius: 5px;
     padding: 15px 25px;
 }
+
 nav div button i {
-    padding: 0 0 0 10px;
+    margin: 0 0 0 10px;
 }
+
 nav div a {
-    margin: 0 40px;
+     padding: 0 10px;
+}
+
+.lj {
+    display: inline-flex;
 }
