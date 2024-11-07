@@ -1,0 +1,74 @@
+@font-face {
+    font-family: montserrat;
+    src: url(../font/Montserrat-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0;
+    font-family: montserrat;
+}
+
+
+.header {
+    max-width: 1322px;
+    max-height: 91px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+ul li {
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+ul li a {
+    color: #737373;
+
+}
+
+.Brandname {
+    font-size: 24px;
+    color: #252b42;
+    font-weight: 700;
+}
+
+.login {
+    color: #96BB7C;
+    ;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+nav div button {
+    background-color: #96BB7C;
+    border: 0;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+nav div button i {
+    padding: 0 0 0 10px;
+}
+nav div a {
+    margin: 0 40px;
+}
