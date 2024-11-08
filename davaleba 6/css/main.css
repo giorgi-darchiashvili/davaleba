@@ -14,7 +14,7 @@ header {
 
 
 .header1 {
-    max-width: 1322px;
+    max-width: 1030px;
     max-height: 91px;
     margin-left: auto;
     margin-right: auto;
@@ -94,10 +94,58 @@ nav div a {
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1439px;
+    max-width: 1440px;
     max-height: 682px;
 }
 
 .welcome-png {
-    text-align: right;
+    float: right;
+}
+
+.welcome-text {
+    margin: 200px 150px;
+}
+
+.welcome-green {
+    color: #96BB7C;
+    font-size: 16px;
+    font-weight: 700px;
+}
+
+.bold-welcome {
+    padding: 15px 0;
+    color: #252B42;
+    font-weight: 800;
+    font-size: 58px;
+}
+
+.welcome-goal {
+    padding: 10px 0;
+    color: #737373;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.buttons {
+    padding: 15px 0;
+}
+
+._button {
+    border-radius: 5px;
+    padding: 15px 40px;
+    font-size: 14px;
+    font-weight: 700;
+    border: 0;
+}
+
+.button1 {
+    background-color: #96BB7C;
+    color: #ffffff;
+
+}
+
+.button2 {
+    margin: 0 10px;
+    border: #96BB7C 2px solid;
+    color: #96BB7C;
 }
