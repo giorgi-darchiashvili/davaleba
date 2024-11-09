@@ -78,6 +78,14 @@ nav div a {
     padding: 0 10px;
 }
 
+
+
+.center-vertically {
+    align-items: center;
+}
+
+
+
 .lj {
     display: inline-flex;
 }
@@ -175,14 +183,12 @@ nav div a {
 .citeli-khazi {
     width: 50px;
     height: 2px;
-    background-color: red;
+    background-color: #e74040;
 }
 
 .d1050X612 {
     width: 1050px;
     height: 612px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .center {
@@ -190,14 +196,6 @@ nav div a {
     margin-right: auto;
 }
 
-.d1045x292 {
-    width: 1045px;
-    height: 292px;
-}
-
-.center-vertically {
-    align-items: center;
-}
 
 .d507x246 {
     width: 507px;
@@ -216,4 +214,34 @@ nav div a {
 .meore-box {
     width: 249px;
     height: 291px;
+}
+
+.d1045x292 {
+    width: 1045px;
+    height: 292px;
+}
+
+.citeli-khazi2 {
+    background-color: #e74040;
+    width: 94px;
+    height: 7px;
+}
+
+.approdable {
+    color: #252B42;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+.flex-column {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.problems {
+    color: #737373;
+    font-weight: 400;
+    font-size: 14px;
 }
