@@ -149,3 +149,71 @@ nav div a {
     border: #96BB7C 2px solid;
     color: #96BB7C;
 }
+
+.display-width{
+    width: 1440px;
+}
+
+.display-haight-671 {
+    height: 671px;
+}
+
+
+.display-1045X292 {
+    width: 1045;
+    height: 292;
+}
+
+.row {
+    display: flex;
+}
+
+.chrdili:hover {
+    box-shadow: 0 0 7px #252B42;
+}
+
+.citeli-khazi {
+    width: 50px;
+    height: 2px;
+    background-color: red;
+}
+
+.d1050X612 {
+    width: 1050px;
+    height: 612px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.d1045x292 {
+    width: 1045px;
+    height: 292px;
+}
+
+.center-vertically {
+    align-items: center;
+}
+
+.dim507x246 {
+    width: 507px;
+    height: 246px; 
+}
+
+.justify {
+    justify-content: space-between;
+}
+
+.d508X292 {
+    width: 508px;
+    height: 292px;
+}
+
+.meore-box {
+    width: 249px ;
+    height: 292px;
+}
