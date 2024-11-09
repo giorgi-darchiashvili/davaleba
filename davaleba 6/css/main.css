@@ -117,7 +117,7 @@ nav div a {
 .welcome-green {
     color: #96BB7C;
     font-size: 16px;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 .bold-welcome {
@@ -212,6 +212,7 @@ nav div a {
 }
 
 .meore-box {
+    padding: 30px;
     width: 249px;
     height: 291px;
 }
@@ -244,4 +245,48 @@ nav div a {
     color: #737373;
     font-weight: 400;
     font-size: 14px;
+}
+
+.lern-more {
+    margin: 0;
+    color: #96BB7C;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.problems-div {
+    height: 60px;
+    width: 345px;
+}
+
+.monitori {
+font-size: 70px;
+color: #96BB7C;
+}
+
+.certified {
+    font-size: 16xp;
+    font-weight: 700;
+    color: #252B42;
+}
+
+.gradual {
+    color: #737373;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.gradual-div {
+    height: 60px;
+    width: 132px;
+}
+
+.vertical-space-aroun {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.chrdili2 {
+    box-shadow: 5px 5px 15px rgb(224, 224, 224);
 }
