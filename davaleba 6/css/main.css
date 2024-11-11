@@ -260,8 +260,8 @@ nav div a {
 }
 
 .monitori {
-font-size: 70px;
-color: #96BB7C;
+    font-size: 70px;
+    color: #96BB7C;
 }
 
 .certified {
@@ -289,4 +289,59 @@ color: #96BB7C;
 
 .chrdili2 {
     box-shadow: 5px 5px 15px rgb(224, 224, 224);
+}
+
+.mesame-section {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.d1440x817 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+    height: 817px;
+}
+
+.d1050X869 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+    height: 869px;
+}
+
+.d1045X549 {
+
+    width: 1045px;
+    height: 549px;
+}
+
+.d381X296 {
+    width: 381px;
+    height: 296px;
+}
+
+.d271X100 {
+    width: 271px;
+    height: 100px;
+}
+
+.video {
+    font-weight: 700;
+    font-size: 40px;
+    color: #252B42;
+}
+
+.d351x60 {
+    width: 351px;
+    height: 60px;
+}
+
+.problems2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #737373;
 }
