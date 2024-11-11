@@ -348,6 +348,16 @@ nav div a {
 
 ____________________________________________
 
+
+
+.space-around-vertical {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+
+
 .d1440x952  {
     width: 1440px;
     height: 952px;
@@ -375,22 +385,12 @@ ____________________________________________
     font-weight: 700;
 }
 
-.advice-div{
-    width: 114px;
-    height: 24px;
-}
 
 .problems3 {
     width: 469px;
     height: 40px;
     color: #737373;
 }
-
-.problems3-div {
-    font-size: 14px;
-    font-weight: 400;
-}
-
 
 
 .center-vertically2 {
@@ -405,7 +405,18 @@ ____________________________________________
     font-size: 40px;
 }
 
-.approdable2-div {
-    width: 500px;
-    height: 50px;
+.d1050x402 {
+    width: 1050px;
+    height: 402px;
 }
+
+.d501x402 {
+    width: 501px;
+    height: 402px;
+}
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
