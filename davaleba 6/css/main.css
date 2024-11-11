@@ -348,18 +348,19 @@ nav div a {
 
 ____________________________________________
 
-
-
-.space-around-vertical {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
+.d1050x402 {
+    width: 1050px;
+    height: 402px;
 }
 
 
+.d1050x402 {
+    width: 1050px;
+    height: 402px;
+}
 
 .d1440x952  {
-    width: 1440px;
+    max-width: 1440px;
     height: 952px;
 }
 
@@ -405,10 +406,7 @@ ____________________________________________
     font-size: 40px;
 }
 
-.d1050x402 {
-    width: 1050px;
-    height: 402px;
-}
+
 
 .d501x402 {
     width: 501px;
@@ -420,3 +418,9 @@ ____________________________________________
     justify-content: space-between;
 }
 
+
+.space-around-vertical {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
