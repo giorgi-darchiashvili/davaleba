@@ -345,3 +345,67 @@ nav div a {
     font-size: 14px;
     color: #737373;
 }
+
+____________________________________________
+
+.d1440x952  {
+    width: 1440px;
+    height: 952px;
+}
+
+.d1050x952 {
+    width: 1050px;
+    height: 952px;
+}
+
+.d1044x134 {
+    width: 1044px;
+    height: 134px;
+}
+
+
+.center2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.advice {
+    color: #96BB7C;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.advice-div{
+    width: 114px;
+    height: 24px;
+}
+
+.problems3 {
+    width: 469px;
+    height: 40px;
+    color: #737373;
+}
+
+.problems3-div {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+
+.center-vertically2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.approdable2 {
+    color: #252B42;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.approdable2-div {
+    width: 500px;
+    height: 50px;
+}
