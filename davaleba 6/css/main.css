@@ -346,9 +346,7 @@ nav div a {
     color: #737373;
 }
 
-____________________________________________
-
-.d1050x402 {
+____________________________________________ .d1050x402 {
     width: 1050px;
     height: 402px;
 }
@@ -359,7 +357,7 @@ ____________________________________________
     height: 402px;
 }
 
-.d1440x952  {
+.d1440x952 {
     max-width: 1440px;
     height: 952px;
 }
@@ -376,7 +374,7 @@ ____________________________________________
 
 
 
-.center2{
+.center2 {
     margin-left: auto;
     margin-right: auto;
 }
@@ -443,7 +441,7 @@ ____________________________________________
 }
 
 .test {
-    color: #96BB7C ;
+    color: #96BB7C;
     font-size: 14px;
     font-weight: 700px;
 }
@@ -537,7 +535,51 @@ ____________________________________________
 .erti img {
     margin-left: auto;
     margin-right: auto;
+}
+
+
+.ze {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
 
+.get {
+    color: #252b42;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.bottom {
+    background-color: #fff2f3;
+    padding: 150px 0;
+}
+
+.watch-bottom {
+    color: #252B42;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.bottom-text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.bottom-text .problems {
+    text-align: center;
+}
+
+
+.subscribe img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.g100px {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
