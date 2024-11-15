@@ -375,6 +375,7 @@ ____________________________________________
 }
 
 
+
 .center2{
     margin-left: auto;
     margin-right: auto;
@@ -423,4 +424,74 @@ ____________________________________________
     display: flex;
     justify-content: space-around;
     flex-direction: column;
+}
+
+.conteiner {
+    max-width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mexute-section {
+    padding: 200px 0;
+}
+
+.mexute-section .mexute-texti {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.test {
+    color: #96BB7C ;
+    font-size: 14px;
+    font-weight: 700px;
+}
+
+.watch {
+    color: #252b42;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.mexute-section .conteiner {
+    gap: 100px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.mexute-section .row {
+    gap: 30px;
+    justify-content: space-around;
+}
+
+.mexute-section .mexute-pirveli {
+    text-align: center;
+}
+
+.mexute-pirveli img {
+    gap: 125px;
+}
+
+.p25 {
+    padding: 25px 0 0 0;
+}
+
+.m10px {
+    margin: 10px;
+}
+
+.regina {
+    color: #252B42;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.designer {
+    color: #737373;
+    font-size: 14px;
+    font-weight: 700;
 }
