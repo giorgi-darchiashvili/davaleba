@@ -33,7 +33,7 @@ nav ul {
     display: inline-flex;
 }
 
-a {
+nav a {
     text-decoration: none;
     margin: 20px;
     float: left;
@@ -583,3 +583,53 @@ ____________________________________________ .d1050x402 {
     flex-direction: column;
     gap: 100px;
 }
+
+.row a {
+    color: #737373;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer {
+    padding: 100px 0;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+
+footer {
+    padding: 25px 0;
+    background-color: #fafafa;
+}
+
+.jpg13 {
+    margin: 0 100px;
+}
+
+.cxrili {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.sakontaqto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sakontaqto img {
+    width: 24px;
+}
+
+
+.sakontaqto p {
+    margin: 10px;
+}
+
