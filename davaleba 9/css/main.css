@@ -30,7 +30,7 @@ li a {
     font-weight: 700;
 }
 
-.raw {
+.row {
     display: flex;
 }
 
@@ -71,7 +71,7 @@ li a {
 
 .buttons button {
     border: 0;
-    padding: 16px 32px ;
+    padding: 16px 32px;
     border-radius: 100px;
     background-color: #5d50c6;
     color: white;
@@ -79,5 +79,133 @@ li a {
 
 /* _______________________header_above_____________________ */
 
+.font14x700 {
+    font-size: 14px;
+    font-weight: 700;
+}
 
+.op-button {
+    color: #f85E9F;
+    border: 0;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 16px 32px;
+    box-shadow: 0 10px 10px 1px rgb(251, 251, 251);
+    border-radius: 100px;
+}
 
+.op-button i {
+    padding: 0 15px;
+    font-size: 20px;
+}
+
+.background {
+    background-image: url(../img/background.png);
+    width: 772px;
+    height: 288px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.background2 {
+    background-image: url(../img/Rectangle\ 1.png);
+    width: 272px;
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.background3 {
+    background-image: url(../img/Rectangle\ 2.png);
+    width: 272px;
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.background4 {
+    background-image: url(../img/Rectangle\ 3.png);
+    width: 272px;
+    height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.center-W {
+    display: flex;
+    align-items: center;
+}
+
+.p100 {
+    padding: 100px 0;
+}
+
+.p50 {
+    padding: 50px 0;
+}
+
+.m300 {
+    margin: 170px 0;
+}
+
+.g25 {
+    gap: 32px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.m32 {
+    margin: 0 0 32px 0
+}
+
+.g25 {
+    gap: 25px;
+}
+
+.textbox1 h1 {
+    font-size: 69px;
+    color: #000000;
+}
+
+.g43 {
+    gap: 43px;
+}
+
+.textbox1 p {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(25, 24, 37, 0.500);
+}
+
+.purple {
+    padding: 16px  32px;
+    border-radius: 100px;
+    border: 0;
+    background-color: #5d50c6;
+    color: white;
+}
+
+.g16 {
+    gap: 16px;
+}
+
+.purple-text {
+    padding: 16px 32px;
+    border-radius: 100px;
+    border: 1px;
+    color: #222831;
+    background-color: rgba(241, 241, 241, 0.1);
+    box-shadow: 0 0 1px 1px rgba(231, 231, 231, 0.5);
+}
+
+.purple-text i {
+    font-size: 20px;
+    color: #5d50c6;
+    margin: 0 5px 0 0;
+}

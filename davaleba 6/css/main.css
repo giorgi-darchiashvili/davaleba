@@ -624,8 +624,16 @@ footer {
     justify-content: space-between;
 }
 
-.sakontaqto img {
-    width: 24px;
+.jpg16 {
+    height: 24px;
+}
+
+.jpg17 {
+    height: 30px;
+}
+
+.jpg18 {
+    height: 26px;
 }
 
 
