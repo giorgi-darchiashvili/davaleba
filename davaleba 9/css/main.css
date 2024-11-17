@@ -1,0 +1,50 @@
+@font-face {
+    font-family: circular;
+    src: url(../font/circular-std-medium-500.ttf);
+}
+
+* {
+    margin: 0;
+    font-family: circular;
+}
+
+ul li {
+    list-style: none;
+
+}
+
+header a {
+    text-decoration: none;
+
+}
+
+li a {
+    color: #191B25;
+    margin: 30px;
+}
+
+.raw {
+    display: flex;
+}
+
+
+.space-between {
+    justify-content: space-between;
+}
+
+.conteiner {
+    max-width: 1184px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-vertically {
+    align-items: center;
+}
+
+.p50h {
+    padding: 50px 0;
+}
