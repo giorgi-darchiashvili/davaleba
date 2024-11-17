@@ -331,5 +331,99 @@ li a {
     color: rgba(25, 27, 37, 0.5);
 }
 
+
+.box-shadow{
+    box-shadow: 0 0 20px 1px #eeeeee;
+}
+
 /* _________________________________________________________meotxe section_____________________________________ */
 
+.meotxe-section-text p {
+    font-size: 23px;
+    font-weight: 700;
+    color: #f85E9F;
+}
+
+.meotxe-section-text h3 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #191B25;
+}
+
+.g32 {
+    gap: 32px;
+}
+
+.circle-left {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: rgb(238, 238, 238);
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+.circle-left i {
+    margin: 38px;
+    font-size: 24px;
+}
+
+.circle-right {
+    width: 100px;
+    height: 100px;
+    background-color: #5d50c6;
+    border-radius: 100px;
+}
+
+.circle-right i {
+    margin: 38px;
+    font-size: 24px;
+    color: white;
+}
+
+.g64 {
+    gap: 64px;
+}
+
+.h6-1 {
+    font-size: 23px;
+    font-weight: 700;
+    color: #191B25;
+}
+
+.mw228 {
+    max-width: 228px;
+}
+
+.h6-2 {
+    font-size: 23px;
+    font-weight: 700;
+    color: #f85E9F;
+}
+
+.card1 p {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(25, 27, 37, 0.75);
+}
+
+.h6-3 {
+    color: #ff5722;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.h6-3 i {
+    margin: 8px;
+}
+
+
+.card1 {
+    box-shadow: 0 0 10px 1px #eeeeee;
+    border-radius: 32px;
+    padding: 0 0 32px 0;
+}
+
+.p32 {
+    padding: 0 32px;
+}
