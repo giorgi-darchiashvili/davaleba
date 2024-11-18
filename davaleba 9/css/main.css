@@ -441,7 +441,7 @@ li a {
     }
 
     .conteiner {
-        max-width: 768px;
+        max-width: 768p;
     }
 
     .conteiner1 {
@@ -449,16 +449,16 @@ li a {
         flex-direction: column;
     }
 
-    .background {
-        width: 100%;
-    }
+
 
     .reverce {
         display: flex;
         flex-direction: column-reverse;
     }
 
-
+    .p100 {
+        padding: 300px 0 100px 0;
+    }
 }
 
 
