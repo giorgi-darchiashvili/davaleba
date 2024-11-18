@@ -332,7 +332,7 @@ li a {
 }
 
 
-.box-shadow{
+.box-shadow {
     box-shadow: 0 0 20px 1px #eeeeee;
 }
 
@@ -426,4 +426,38 @@ li a {
 
 .p32 {
     padding: 0 32px;
+}
+
+
+/* __________________________________________telefonis_____________________________ */
+
+@media only screen and (max-width: 768px) {
+    nav ul li {
+        display: none;
+    }
+
+    nav .pc {
+        display: none;
+    }
+
+    .conteiner {
+        max-width: 768px;
+    }
+
+    .conteiner1 {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    nav .button-mob {
+        display: none;
+    }
+}
+
+
+.button-mob {
+    color: #5d50c6;
+    font-size: 48px;
 }
