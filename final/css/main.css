@@ -9,6 +9,11 @@
     font-family: bevietnampro;
 }
 
+
+body {
+    background-color: #f9f9f9;
+}
+
 ul li {
     list-style: none;
 
@@ -29,7 +34,7 @@ nav {
     text-transform: capitalize;
     display: flex;
     justify-content: space-between;
-    max-width: 1595px;
+    max-width: 1596px;
     margin: 0 auto;
     align-items: center;
     padding: 20px 0;
@@ -66,7 +71,7 @@ header p {
 
 
 ul img {
-    padding:0 30px 0 0;
+    padding: 0 30px 0 0;
 }
 
 
@@ -74,6 +79,7 @@ ul img {
 
 :root {
     --orange: #ff9500;
+    --black: #262626;
 }
 
 
@@ -112,3 +118,99 @@ ul img {
     background-color: #f1f1f3;
     border-radius: 8px;
 }
+
+/* _______________________________centraluri_carcera_____________________________________________ */
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+
+}
+
+h1 i {
+    background-color: #fff4e5;
+    padding: 14px;
+    border-radius: 6px;
+}
+
+
+
+h1 span {
+    color: var(--orange);
+    padding: 0 0 0 5px;
+}
+
+.h1b {
+    background-color: #fcfcfd;
+    max-width: 854px;
+    text-align: center;
+    padding: 14px 0;
+    border-radius: 11px;
+    margin: 0 auto;
+    box-shadow: 0 0 5px 1px #f1f1f3;
+    position: relative;
+}
+
+.wt {
+    padding: 100px 0;
+}
+
+.conteiner {
+    max-width: 1596px;
+    margin: 0 auto;
+}
+
+
+.wt2 {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wt2 h2 {
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.wt2 p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.h1b img {
+    position: absolute;
+    left: -30px;
+    bottom: 85px;
+}
+
+.btn1 {
+    text-transform: capitalize;
+    padding: 14px 34px;
+    background-color: var(--orange);
+    border-radius: 8px;
+    color: #ffffff;
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btn2 {
+    text-transform: capitalize;
+    padding: 14px 34px;
+    background-color: white;
+    border-radius: 8px;
+    color: var(--black);
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.btn {
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* ___________________________________logo____________________________________________________ */
