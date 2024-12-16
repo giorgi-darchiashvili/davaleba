@@ -1,0 +1,114 @@
+@font-face {
+    font-family: bevietnampro;
+    src: url(../fonts/BeVietnamPro-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: bevietnampro;
+}
+
+ul li {
+    list-style: none;
+
+}
+
+ul a {
+    text-decoration: none;
+    padding: 14px 24px;
+    color: #262626;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1595px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+nav div a {
+    text-decoration: none;
+    color: #262626;
+    font-size: 18px;
+}
+
+nav div {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+nav button {
+    text-transform: capitalize;
+    padding: 14px 34px;
+    background-color: var(--orange);
+    border-radius: 8px;
+    color: #ffffff;
+    border: 0;
+}
+
+header p {
+    text-align: center;
+    color: white;
+}
+
+
+ul img {
+    padding:0 30px 0 0;
+}
+
+
+/*___________________________________________________ tsvladebi______________________________________ */
+
+:root {
+    --orange: #ff9500;
+}
+
+
+
+
+
+
+/* _____________________________________________________tavi________________________________________ */
+
+.fa-star {
+    color: gold;
+    padding: 14px 24px;
+}
+
+.orangeh {
+    max-width: 1860px;
+    background-color: var(--orange);
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+
+
+
+.row {
+    display: flex;
+}
+
+.fs18px {
+    font-size: 18px;
+}
+
+
+.b1 {
+    padding: 14px 24px;
+    background-color: #f1f1f3;
+    border-radius: 8px;
+}
