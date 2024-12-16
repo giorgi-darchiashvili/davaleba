@@ -338,3 +338,15 @@ h1 span {
 .h48 {
     height: 48%;
 }
+
+
+.arrow {
+    left: 340px;
+    background-color: var(--lgray);
+    border-radius: 8px;
+}
+
+.arrow img {
+    margin: auto;
+    width: 70%;
+}
