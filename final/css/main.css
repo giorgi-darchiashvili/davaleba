@@ -80,6 +80,7 @@ ul img {
 :root {
     --orange: #ff9500;
     --black: #262626;
+    --gray: #f1f1f3;
 }
 
 
@@ -214,3 +215,19 @@ h1 span {
 }
 
 /* ___________________________________logo____________________________________________________ */
+
+.logo {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 30px 0;
+    border-radius: 12px;
+}
+
+.xz {
+    background-color: var(--gray);
+    width: 1px;
+    height: 94px;
+}
+
+/* ___________________________________--pirveli seqtsia______________________________________ */
