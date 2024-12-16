@@ -80,7 +80,8 @@ ul img {
 :root {
     --orange: #ff9500;
     --black: #262626;
-    --gray: #f1f1f3;
+    --lgray: #f1f1f3;
+    --gray: #59595a;
 }
 
 
@@ -225,9 +226,62 @@ h1 span {
 }
 
 .xz {
-    background-color: var(--gray);
+    background-color: var(--lgray);
     width: 1px;
     height: 94px;
 }
 
 /* ___________________________________--pirveli seqtsia______________________________________ */
+
+.p100 {
+    padding: 100px 0;
+}
+
+.gb {
+    max-width: 100%;
+}
+
+
+.px48-600 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.px18-400 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.mw1177 {
+    max-width: 1177px;
+}
+
+.gray {
+    color: var(--gray);
+}
+
+.column {
+    display: flex;
+}
+
+.sb {
+    justify-content: space-between;
+}
+
+.rltv {
+    position:relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.mh {
+    max-height: 80px;
+}
+
+.t30 {
+    top: 30px;
+}
+
+/* ____________________________________cards________________________________________ */
