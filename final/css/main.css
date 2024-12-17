@@ -452,3 +452,152 @@ h1 span {
     font-weight: 600;
     color: #333333;
 }
+
+
+/* _________________________________________________________________prices_______________________________ */
+
+
+.btn6 {
+    text-transform: capitalize;
+    padding: 14px 30px;
+    background-color: var(--orange);
+    border-radius: 8px;
+    color: white;
+    border: 0;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0 0 2px 1px #f1f1f3;
+}
+
+
+.btn7 {
+    text-transform: capitalize;
+    padding: 14px 30px;
+    background-color: white;
+    border-radius: 8px;
+    color: #4c4c4d;
+    border: 0;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0 0 2px 1px #f1f1f3;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+
+.pos1 {
+    right: 0;
+    bottom: 100px;
+}
+
+.mw1025 {
+    max-width: 1025px;
+}
+
+.p80 {
+    padding: 80px;
+}
+
+
+.px32x32 {
+    background-color: #fff4e5;
+    width: 32px;
+    height: 32px;
+}
+
+
+.c {
+    align-items: center;
+}
+
+.c1 {
+    margin: 0 auto;
+}
+
+.br6 {
+    border-radius: 6px;
+}
+
+.brd {
+    border: 1px solid var(--lgray) ;
+}
+
+.ybc {
+    background-color: #fff9f0;
+    text-align: center;
+    padding: 12px 22px;
+    border-radius: 6px;
+    border: 1px solid #ffeacc;
+}
+
+.gbc {
+    background-color: var(--llgray2);
+    border: 1px solid var(--lgray);
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.gbo {
+    border: 1px solid var(--lgray);
+}
+
+
+.br14 {
+    border-radius: 14px;
+}
+
+.p40 {
+    padding: 40px;
+}
+
+.avil {
+    text-align: center;
+}
+
+.g30 {
+    gap: 30px;
+}
+
+.mc {
+    margin: 0 auto;
+}
+
+
+.px32x32w {
+    border: 1px solid var(--lgray);
+    background-color: #fcfcfd;
+    width: 32px;
+    height: 32px;
+}
+
+.bru14px {
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.orbg {
+    padding: 20px 24px;
+    background-color: var(--orange);
+}
+
+.brd14px {
+    border-bottom-right-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+
+.avil1 {
+    text-align: center;
+    color: white;
+}
+
+
+
+.px18-600 {
+    font-size: 18px;
+    font-weight: 600;
+}
