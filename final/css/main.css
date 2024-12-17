@@ -82,6 +82,8 @@ ul img {
     --black: #262626;
     --lgray: #f1f1f3;
     --gray: #59595a;
+    --llgray2: #FCFCFD;
+    --lgray3: #f7f7f8;
 }
 
 
@@ -273,7 +275,7 @@ h1 span {
 }
 
 .rltv {
-    position:relative;
+    position: relative;
 }
 
 .abs {
@@ -285,7 +287,7 @@ h1 span {
 }
 
 .t30 {
-    top: 30px;
+    top: 50px;
 }
 
 /* ____________________________________cards________________________________________ */
@@ -352,9 +354,14 @@ h1 span {
 }
 
 
+.b0 {
+    bottom: 0;
+}
+
+
 /* ___________________________________________________--cards2__________________________________ */
 
-.w48 {
+.w50 {
     width: 50%;
 }
 
@@ -363,7 +370,7 @@ h1 span {
     padding: 10px 16px;
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
-    color: var(--black);
+    color: #4c4c4c;
     border: 0;
     font-size: 18px;
     font-weight: 400;
@@ -401,4 +408,47 @@ h1 span {
 
 .h33 {
     height: 33%;
+}
+
+/* __________________________________________________--cards3_____________________________________ */
+
+.p30-50 {
+    padding: 30px 50px;
+}
+
+.bcllg {
+    background-color: var(--llgray2);
+}
+
+.btn5 {
+    text-transform: capitalize;
+    padding: 18px 24px;
+    background-color: var(--lgray3);
+    border-radius: 8px;
+    color: var(--black);
+    border: 0;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0 0 2px 1px #f1f1f3;
+}
+
+.g10 {
+    gap: 10px;
+}
+
+.brd {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.bru {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+
+.px18-600b {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
 }
