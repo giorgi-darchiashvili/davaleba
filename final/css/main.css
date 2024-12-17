@@ -350,3 +350,55 @@ h1 span {
     margin: auto;
     width: 70%;
 }
+
+
+/* ___________________________________________________--cards2__________________________________ */
+
+.w48 {
+    width: 50%;
+}
+
+.btn3 {
+    text-transform: capitalize;
+    padding: 10px 16px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    color: var(--black);
+    border: 0;
+    font-size: 18px;
+    font-weight: 400;
+    box-shadow: 0 0 2px 1px #f1f1f3;
+}
+
+.ch {
+    align-items: center;
+}
+
+.mentorname {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--black);
+}
+
+
+.btn4 {
+    text-transform: capitalize;
+    padding: 18px 24px;
+    background-color: var(--lgray);
+    border-radius: 8px;
+    color: var(--black);
+    border: 0;
+    font-size: 18px;
+    font-weight: 400;
+    box-shadow: 0 0 2px 1px #f1f1f3;
+}
+
+.an {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--black);
+}
+
+.h33 {
+    height: 33%;
+}
