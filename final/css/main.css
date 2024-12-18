@@ -521,7 +521,7 @@ h1 span {
 }
 
 .brd {
-    border: 1px solid var(--lgray) ;
+    border: 1px solid var(--lgray);
 }
 
 .ybc {
@@ -605,4 +605,71 @@ h1 span {
 .price {
     font-size: 80px;
     font-weight: 600;
+}
+
+
+
+/* ________________________________________--bolo section______________________________ */
+
+
+.m150 {
+    margin: 150px 0;
+}
+
+.p100p {
+    padding: 100px;
+}
+
+.btn8 {
+    text-transform: capitalize;
+    padding: 18px 24px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    color: var(--black);
+    border: 1px solid var(--lgray);
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.g100 {
+    gap: 100px;
+}
+
+.px52x52 {
+    background-color: #fff4e5;
+    width: 52px;
+    height: 52px;
+    border-radius: 8px;
+}
+
+.w67 {
+    width: 67%;
+}
+
+.w33 {
+    width: 33%;
+}
+
+.wertline {
+    height: 1px;
+    width: 800px;
+    background-color: var(--lgray);
+}
+
+.bcgray {
+    background-color: var(--lgray);
+}
+
+.br8 {
+    border-radius: 8px;
+}
+
+.px56x56 {
+    width: 56px;
+    height: 56px;
+}
+
+.br28 {
+    border-radius: 28px;
 }
