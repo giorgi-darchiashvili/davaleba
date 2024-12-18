@@ -777,3 +777,35 @@ h1 span {
 .g50 {
     gap: 50px;
 }
+
+
+/* _____________________________________________________________course page ui ux_______________________ */
+
+
+.p24-30 {
+    padding: 24px 30px;
+}
+
+.minutes {
+    border-radius: 6px;
+    background-color: var(--lgray);
+    padding: 12px 14px;
+}
+
+
+.brdy {
+    border: 1px solid #ffd599;
+    box-shadow: 0 0 3px 0px #ffd599;
+}
+
+
+.minutesy {
+    border-radius: 6px;
+    background-color: #ffeacc;
+    padding: 12px 14px;
+}
+
+.px20-500 {
+    font-size: 20px;
+    font-weight: 500;
+}
