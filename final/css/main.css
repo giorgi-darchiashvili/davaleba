@@ -436,7 +436,7 @@ h1 span {
     gap: 10px;
 }
 
-.brd {
+.brd12 {
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
 }
@@ -713,4 +713,67 @@ h1 span {
     height: 1px;
     max-width: 1900px ;
     background-color: var(--lgray);
+}
+
+
+
+/* ___________________________________________________________courses page _____________________________________ */
+
+
+.m100 {
+    margin: 100px 0;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.px22x600 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.bru10px {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.brd10 {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.p30-50 {
+    padding: 30px 50px;
+}
+
+.px50-800 {
+    font-size: 50px;
+    font-weight: 800;
+    color: var(--black);
+}
+
+
+.px18-500g {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333333;
+}
+
+
+.bottomborder {
+    border-bottom: 1px solid var(--lgray);
+}
+
+.w20 {
+    width: 15%;
+}
+
+.border-r {
+    border-right: 1px solid var(--lgray);
+}
+
+.g50 {
+    gap: 50px;
 }
