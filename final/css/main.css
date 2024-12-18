@@ -817,3 +817,21 @@ h1 span {
 .h28 {
     height: 28%;
 }
+
+
+/* ______________________________________________pricing__________________________________ */
+
+.w272h79 {
+    width: 272px;
+    height: 60px;
+}
+
+.m50 {
+    margin: 50px;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+}
