@@ -979,7 +979,9 @@ h1 span {
         background-size: contain;
     }
 
-
+.w33mob {
+    width: 33%;
+}
 
 
     .w100mob {
